@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|d:\\users\\sicarius\\documents\\github\\games\\fa1.2.2appmath\\fa1.2.2\\assets\\scripts\\spinningobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|d:\\users\\sicarius\\documents\\github\\games\\fa1.2.2appmath\\fa1.2.2\\assets\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|d:\\users\\sicarius\\documents\\github\\games\\fa1.2.2appmath\\fa1.2.2\\assets\\scripts\\last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\assets\\scripts\\spinningobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spinningobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|d:\\users\\sicarius\\documents\\github\\games\\fa1.2.2appmath\\fa1.2.2\\assets\\scripts\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\assets\\scripts\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9C39662-C153-3E08-EF6D-642B0D940019}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,11 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Last.cs",
+              "DocumentMoniker": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\Last.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Last.cs",
+              "ToolTip": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\Last.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Last.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:03:18.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PowerUp.cs",
+              "DocumentMoniker": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\PowerUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUp.cs",
+              "ToolTip": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\PowerUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:53:33.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinishLine.cs",
+              "DocumentMoniker": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
+              "ToolTip": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:10:16.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:52:38.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SpinningObstacle.cs",
               "DocumentMoniker": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\SpinningObstacle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpinningObstacle.cs",
@@ -38,12 +106,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SpinningObstacle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T01:59:02.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T01:59:02.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PlayerRespawn.cs",
               "DocumentMoniker": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\PlayerRespawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRespawn.cs",
@@ -51,12 +118,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerRespawn.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T00:30:42.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T00:30:42.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Camera.cs",
               "DocumentMoniker": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\Camera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Camera.cs",
@@ -68,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Users\\Sicarius\\Documents\\GitHub\\Games\\FA1.2.2AppMath\\FA1.2.2\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",

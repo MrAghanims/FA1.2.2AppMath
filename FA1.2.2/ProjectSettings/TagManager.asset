@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Checkpoint
   - Hazard
+  - Fin
   layers:
   - Default
   - TransparentFX
